@@ -1,7 +1,7 @@
 # 3DGridSLAM - Exploiting 3D Grids for Indoor SLAM in Featureless Scenarios
 
 This will be the repository for the 3DGridSLAM and 3DGridSLAM_Localization ROS packages.
-Due to reasons outside the scope of this work, the final code release has been delayed until July. We include here a early development version of the code.
+Due to reasons outside the scope of this work, the final code release has been delayed until July. We include here a early development version of the code. This version contains many hardcode variables and should be only used as a way to research the ideias presented in the paper, the final version will include all the elements presented in the paper as well as a 3DGrid submap strategy.
 
 ## Abstract
 
@@ -19,7 +19,7 @@ If you think this work is useful for your research, please consider citing:
 ```
 @ARTICLE{garrote2024,
   author={L. Garrote and U. Reverendo and U. J. Nunes},
-  journal={IEEE Access}, 
+  journal={2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC)}, 
   title={Exploiting 3D Grids for Indoor SLAM in Featureless Scenarios}, 
   year={2024},
   volume={},
