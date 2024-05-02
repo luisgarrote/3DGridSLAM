@@ -1,7 +1,7 @@
 # 3DGridSLAM - Exploiting 3D Grids for Indoor SLAM in Featureless Scenarios
 
 This will be the repository for the 3DGridSLAM and 3DGridSLAM_Localization ROS packages.
-Due to reasons outside the scope of this work, the final code release has been delayed until July. We include here a early development version of the code. This version contains many hardcode variables and should be only used as a way to research the ideias presented in the paper, the final version will include all the elements presented in the paper as well as a 3DGrid submap strategy.
+Due to reasons outside the scope of this work (one of the authors is unable to help in porting the code due to health problems), the final code release has been delayed until July/August. We include here a early development version of the code. This version contains many hardcode variables (and is a snapshot of early development with many ideas that did not feature in the final paper) and should be only used as a way to check some of the ideias presented in the paper, the final version will include all the elements presented in the paper as well as a 3DGrid submap strategy. The method was developed in a ROS/Qt environment that heavily depends on a Qt/C++ package that we cannot release at the moment, for that reason, we will need some time to create Vanilla ROS packages for both SLAM and Localization pipelines.
 
 ## Abstract
 
