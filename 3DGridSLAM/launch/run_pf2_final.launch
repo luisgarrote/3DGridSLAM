@@ -1,0 +1,6 @@
+<launch>
+
+	<node pkg="pf2_final2" type="PF2_final2" name="PF2_final2" output="screen"/>
+
+</launch>
+	
